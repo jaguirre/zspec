@@ -1,0 +1,6 @@
+mk_html_help, '/data1/bolo_software/library/utilities',    'utilities.html',    title='Utilities'
+mk_html_help, '/data1/bolo_software/library/applications', 'applications.html', title='Applications'
+mk_html_help, '/data1/bolo_software/library/graphics',     'graphics.html',     title='Graphics'
+mk_html_help, '/data1/bolo_software/library/IO',           'IO.html',           title='IO'
+mk_html_help, '/data1/bolo_software/library/ps',           'ps.html',           title='Postscript'
+mk_html_help, '/data1/bolo_software/library/visualTools',  'visualTools.html',  title='VisualTools'
